@@ -1,12 +1,11 @@
-# Lunik-Torrent
+
 [![npm](https://img.shields.io/npm/v/lunik-torrent.svg)](https://www.npmjs.com/package/lunik-torrent)
 [![Travis branch](https://img.shields.io/travis/Lunik/Lunik-Torrent/master.svg)](https://travis-ci.org/Lunik/Lunik-Torrent)
 [![Codecov branch](https://img.shields.io/codecov/c/github/Lunik/Lunik-Torrent/master.svg)](https://codecov.io/gh/Lunik/Lunik-Torrent)
 [![Dependency Status](https://gemnasium.com/badges/github.com/Lunik/Lunik-Torrent.svg)](https://gemnasium.com/github.com/Lunik/Lunik-Torrent)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-### New version
-I am currently develloping a new version with more recent technologies right now. Check out [Tcloud](https://github.com/Lunik/Tcloud) for more informations.
+
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -48,7 +47,7 @@ $ npm run deamon
 ```
 
 ## With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lunik/Lunik-Torrent)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jahtes/Harest)
 /!\ Heroku don't store any data. Once your app shutdown, you will loose all your login and your files.
 To prevent that you can use [kaffeine](http://kaffeine.herokuapp.com/) to keep your app UP 24/24.
 
